@@ -1,0 +1,1150 @@
+Type,Categoria
+Barbearia,Salões de Beleza
+Cartório de Registro Civil,Serviços Jurídicos
+Casa de campo,Hotelaria
+Centro comercial,Condomínios
+Centro de saúde e beleza,Salões de Beleza
+Centro espírita,Lojas em Geral
+Centro médico,Lojas em Geral
+Clínica especializada,Salões de Beleza
+Companhia de gás,Lojas em Geral
+Complexo de apartamentos,Condomínios
+Complexo de condomínio,Condomínios
+Complexo habitacional,Condomínios
+Complexo residencial,Condomínios
+Comunidade privada,Condomínios
+Construtora,Condomínios
+Consultoria em Marketing,Serviços Jurídicos
+Depilação,Salões de Beleza
+Depósito,Lojas em Geral
+Desenvolvimento de moradias,Condomínios
+Empresa de engenharia civil,Condomínios
+Empresa de Software,Lojas em Geral
+Escola,Lojas em Geral
+Escola de profissionais de beleza,Salões de Beleza
+Escola particular,Lojas em Geral
+Escritório da empresa,Serviços Jurídicos
+Fabricante,Lojas em Geral
+Ferro velho,Oficinas Mecânicas
+Ferro-velho,Oficinas Mecânicas
+Floricultura,Lojas em Geral
+Fornecedor de bebidas,Lojas em Geral
+Fornecedor de produtos promocionais,Lojas em Geral
+Hospital,Lojas em Geral
+Hotel,Hotelaria
+Igreja,Lojas em Geral
+Igreja Assembleia de Deus,Lojas em Geral
+Imobiliária,Serviços Jurídicos
+Importadora,Serviços Jurídicos
+Lavanderia,Lojas em Geral
+Limpeza,Lojas em Geral
+Loja,Lojas em Geral
+Loja de cosmético,Salões de Beleza
+Loja de materiais de construção,Lojas em Geral
+Loja de materiais para escritório,Lojas em Geral
+Loja de produtos de beleza,Salões de Beleza
+Loja especializada em ar-condicionado,Lojas em Geral
+Loteamento de terrenos,Condomínios
+Manicure,Salões de Beleza
+Mercearia atacadista,Mercados e Padarias
+Oficina de inspeção veicular,Oficinas Mecânicas
+Oficina mecânica,Oficinas Mecânicas
+Organização de serviço social,Serviços Jurídicos
+Organização sem fins lucrativos,Serviços Jurídicos
+Parque,Lojas em Geral
+Pensão,Condomínios
+Posto de saúde comunitário,Serviços Jurídicos
+Prefeitura,Serviços Jurídicos
+Prestador de serviços públicos,Serviços Jurídicos
+Profissional de serviços de beleza,Salões de Beleza
+Revendedora de carros usados,Venda de Veículos
+Salão de Beleza,Salões de Beleza
+Salão de sobrancelhas,Salões de Beleza
+Seminário,Lojas em Geral
+Serralharia,Lojas em Geral
+Serviço de aluguel de móveis,Lojas em Geral
+Serviço de depilação a laser,Salões de Beleza
+Serviço de emagrecimento,Lojas em Geral
+Serviço de gerenciamento de descartes,Lojas em Geral
+Serviço de informática,Lojas em Geral
+Serviço de transporte,Lojas em Geral
+Tornearia,Oficinas Mecânicas
+Universidade particular,Lojas em Geral
+Vidraçaria,Lojas em Geral
+Academia,Lojas em Geral
+Acessórios para móveis,Lojas em Geral
+Açougue,Mercados e Padarias
+Açougue gourmet,Mercados e Padarias
+Acupunturista,Lojas em Geral
+Adega,Mercados e Padarias
+Advogado,Serviços Jurídicos
+Advogado administrativo,Serviços Jurídicos
+Advogado Civil,Serviços Jurídicos
+Advogado contencioso,Serviços Jurídicos
+Advogado criminal,Serviços Jurídicos
+Advogado de Direito de Família,Serviços Jurídicos
+Advogado de falência,Serviços Jurídicos
+Advogado de imigração,Serviços Jurídicos
+Advogado de patentes,Serviços Jurídicos
+Advogado de planejamento de espólio,Serviços Jurídicos
+Advogado de práticas gerais,Serviços Jurídicos
+Advogado de seguros,Serviços Jurídicos
+Advogado especialista em direito médico,Serviços Jurídicos
+Advogado especialista em divórcios,Serviços Jurídicos
+Advogado imobiliário,Serviços Jurídicos
+Advogado previdenciário,Serviços Jurídicos
+Advogado processual,Serviços Jurídicos
+Advogado trabalhista,Serviços Jurídicos
+Advogado tributarista,Serviços Jurídicos
+Aeroporto,Lojas em Geral
+Agência de aluguel de carros,Venda de Veículos
+Agência de Cobrança,Serviços Jurídicos
+Agência de comércio eletrônico,Lojas em Geral
+Agência de emplacamento de automóveis,Venda de Veículos
+Agência de empréstimos,Lojas em Geral
+Agência de locação de equipamentos,Lojas em Geral
+Agência de locação de guindastes,Lojas em Geral
+Agência de locação de vans,Lojas em Geral
+Agência de Marketing,Serviços Jurídicos
+Agência de marketing digital,Serviços Jurídicos
+Agência de passagens de ônibus,Lojas em Geral
+Agência de publicidade,Serviços Jurídicos
+Agência de seguros,Serviços Jurídicos
+Agência de turismo,Hotelaria
+Agência de viagens,Lojas em Geral
+Agência de viagens de ônibus,Lojas em Geral
+Agente comercial,Lojas em Geral
+Agente comercial de carros,Venda de Veículos
+Agente imobiliário,Serviços Jurídicos
+Agricultura e pecuária,Lojas em Geral
+Albergue,Hotelaria
+Alfaiate,Lojas em Geral
+Alimentação,Mercados e Padarias
+Alojamento coberto,Hotelaria
+Alojamento com cozinha própria,Hotelaria
+Aluguel de veículos,Venda de Veículos
+Animador,Lojas em Geral
+Antiquário,Lojas em Geral
+Apart hotel,Hotelaria
+Apartamento para aluguel de temporada,Hotelaria
+Apartamento para férias,Hotelaria
+Apartamentos,Condomínios
+Apiário,Lojas em Geral
+Área de escritórios,Serviços Jurídicos
+Arena,Lojas em Geral
+Armarinho,Lojas em Geral
+Armazém,Lojas em Geral
+Arquiteto,Lojas em Geral
+Arte,Lojas em Geral
+Artesanato,Lojas em Geral
+Assessoria contábil,Serviços Jurídicos
+Assessoria de recursos humanos,Serviços Jurídicos
+Assistência jurídica,Serviços Jurídicos
+Assistência médica,Serviços Jurídicos
+Assistência Técnica,Oficinas Mecânicas
+Assistência técnica de eletrodomésticos,Lojas em Geral
+Assistência Técnica de Informática,Lojas em Geral
+Assistente social,Lojas em Geral
+Associação cultural,Restaurantes e Lanchonetes
+Associação de construtores,Lojas em Geral
+Associação de residentes,Condomínios
+Associação ou organização,Serviços Jurídicos
+Atacadista,Mercados e Padarias
+Atacadista de carnes,Lojas em Geral
+Atacadista de confeitaria,Mercados e Padarias
+Atacadista de eletrodomésticos,Lojas em Geral
+Atacadista de frutas e vegetais,Mercados e Padarias
+Atacadista de frutos do mar,Restaurantes e Lanchonetes
+Atacadista de hortifrutigranjeiros,Lojas em Geral
+Atacadista de lingeries,Lojas em Geral
+Atacadista de materiais de construção,Lojas em Geral
+Atacadista de móveis,Lojas em Geral
+Atacadista de roupas,Lojas em Geral
+Atacadista de tecidos,Lojas em Geral
+Ateliê de arte,Lojas em Geral
+Atração turística,Lojas em Geral
+Aulas de yoga,Lojas em Geral
+Aulas particulares,Serviços Jurídicos
+Auto moto escola,Venda de Veículos
+Autoelétrico,Oficinas Mecânicas
+Autoescola,Oficinas Mecânicas
+Avaliador,Serviços Jurídicos
+Avaliadora de imóveis,Serviços Jurídicos
+Babá de animais de estimação,Serviços Jurídicos
+Banca de cachorro-quente,Restaurantes e Lanchonetes
+Banca de jornais,Lojas em Geral
+Banco,Lojas em Geral
+Banho e tosa,Lojas em Geral
+Bar,Restaurantes e Lanchonetes
+Bar com karaokê,Restaurantes e Lanchonetes
+Bar com música ao vivo,Restaurantes e Lanchonetes
+Bar de blues,Restaurantes e Lanchonetes
+Bar de cervejas,Restaurantes e Lanchonetes
+Bar de vinhos,Restaurantes e Lanchonetes
+Bar e Grill,Restaurantes e Lanchonetes
+Bar e restaurante de ostras,Restaurantes e Lanchonetes
+Bar esportivo,Restaurantes e Lanchonetes
+Bar informal,Restaurantes e Lanchonetes
+Bares,Restaurantes e Lanchonetes
+Bazar,Lojas em Geral
+Beleza,Salões de Beleza
+Bicicletaria,Lojas em Geral
+Bicicletário,Lojas em Geral
+Bistrô,Restaurantes e Lanchonetes
+Boliche,Restaurantes e Lanchonetes
+Borracharia,Oficinas Mecânicas
+Brechó,Lojas em Geral
+Buffet de casamento,Restaurantes e Lanchonetes
+Butique,Lojas em Geral
+Cabeleireiro,Salões de Beleza
+Cabeleireiro unissex,Salões de Beleza
+Cabelereiro,Salões de Beleza
+Cachorro-quente,Restaurantes e Lanchonetes
+Café,Restaurantes e Lanchonetes
+Cafeteria,Restaurantes e Lanchonetes
+Caixa eletrônico,Lojas em Geral
+Cama e café,Hotelaria
+Campo de futebol,Lojas em Geral
+Capela,Outros
+Cardiologista,Lojas em Geral
+Carpintaria,Serviços Jurídicos
+Carros,Venda de Veículos
+Cartório de Registro de Imóveis,Serviços Jurídicos
+Casa de chá,Restaurantes e Lanchonetes
+Casa de churros,Lojas em Geral
+Casa de férias,Hotelaria
+Casa de repouso,Lojas em Geral
+Casa de repouso para idosos,Hotelaria
+Casa especializada em frutas,Lojas em Geral
+Casa lotérica,Lojas em Geral
+Casa mal-assombrada,Condomínios
+Casa noturna,Lojas em Geral
+Catedral,Lojas em Geral
+Cemitério de animais de estimação,Lojas em Geral
+Centro comunitário,Lojas em Geral
+Centro da melhor idade,Lojas em Geral
+Centro de acolhimento social,Lojas em Geral
+Centro de bem-estar,Lojas em Geral
+Centro de coaching,Serviços Jurídicos
+Centro de convenções,Lojas em Geral
+Centro de cuidados diurnos para cachorros,Hotelaria
+Centro de jardinagem,Lojas em Geral
+Centro de planejamento familiar,Serviços Jurídicos
+Centro de Reciclagem,Lojas em Geral
+Centro de recreação,Lojas em Geral
+Centro de treinamento,Serviços Jurídicos
+Centro Educacional,Lojas em Geral
+Centro médico público,Lojas em Geral
+Cervejaria,Restaurantes e Lanchonetes
+Chalé,Hotelaria
+Charutaria,Lojas em Geral
+Chaveiro,Lojas em Geral
+Chocolateria,Lojas em Geral
+Chop bar,Restaurantes e Lanchonetes
+Churrascaria,Restaurantes e Lanchonetes
+Cirurgião dentista,Serviços Jurídicos
+Clínica da saúde da mulher,Salões de Beleza
+Clínica de acupuntura,Salões de Beleza
+Clínica de Fisioterapia,Lojas em Geral
+Clínica de implante capilar,Salões de Beleza
+Clínica de repouso,Hotelaria
+Clínica odontológica,Lojas em Geral
+Clínica ortopédica,Lojas em Geral
+Clube,Lojas em Geral
+Clube de automobilismo,Venda de Veículos
+Clube de bicicletas,Lojas em Geral
+Clube de campo,Hotelaria
+Clube de tiro,Lojas em Geral
+Clube recreativo,Hotelaria
+Cobrança de dívidas,Serviços Jurídicos
+Comércio de Pneu,Oficinas Mecânicas
+Companhia aeroespacial,Lojas em Geral
+Companhia de saneamento,Serviços Jurídicos
+Companhia de seguros,Lojas em Geral
+Companhia gestora de propriedade,Condomínios
+Concessionária,Venda de Veículos
+Concessionária Acura,Venda de Veículos
+Concessionária Audi,Venda de Veículos
+Concessionária Bentley,Venda de Veículos
+Concessionária BMW,Venda de Veículos
+Concessionária Bugatti,Venda de Veículos
+Concessionária Chevrolet,Venda de Veículos
+Concessionária Citroën,Venda de Veículos
+Concessionária da Fiat,Venda de Veículos
+Concessionária da Renault,Venda de Veículos
+Concessionária de caminhões,Venda de Veículos
+Concessionária de caminhões usados,Venda de Veículos
+Concessionária de carros de corrida,Venda de Veículos
+Concessionária de ciclomotores,Venda de Veículos
+Concessionária de motocicletas,Venda de Veículos
+Concessionária de motocicletas usadas,Venda de Veículos
+Concessionária de motos elétricas,Venda de Veículos
+Concessionária de scooters,Venda de Veículos
+Concessionária de tratores,Venda de Veículos
+Concessionária de veículos elétricos,Venda de Veículos
+Concessionária de veículos motorizados,Venda de Veículos
+Concessionária de veículos powersports,Venda de Veículos
+Concessionária DS Automobiles,Venda de Veículos
+Concessionária Fiat Profissional,Venda de Veículos
+Concessionária Ford,Venda de Veículos
+Concessionária GMC,Venda de Veículos
+Concessionária Honda,Venda de Veículos
+Concessionária Hyundai,Venda de Veículos
+Concessionária Jaguar,Lojas em Geral
+Concessionária Jeep,Venda de Veículos
+Concessionária Kia,Venda de Veículos
+Concessionária Land Rover,Venda de Veículos
+Concessionária Lexus,Venda de Veículos
+Concessionária Mercedes-Benz,Venda de Veículos
+Concessionária MINI,Venda de Veículos
+Concessionária Mitsubishi,Venda de Veículos
+Concessionária Nissan,Venda de Veículos
+Concessionária Peugeot,Venda de Veículos
+Concessionária Porsche,Venda de Veículos
+Concessionária Ram,Venda de Veículos
+Concessionária Smart,Venda de Veículos
+Concessionária Suzuki,Venda de Veículos
+Concessionária Toyota,Venda de Veículos
+Concessionária Volkswagen,Venda de Veículos
+Concessionária Volvo,Venda de Veículos
+Confeitaria,Restaurantes e Lanchonetes
+Construtor Imobiliário,Lojas em Geral
+Consultor de aposentadoria,Serviços Jurídicos
+Consultor de comércio internacional,Serviços Jurídicos
+Consultor de saúde,Lojas em Geral
+Consultor financeiro,Serviços Jurídicos
+Consultor fiscal,Serviços Jurídicos
+Consultora de imóveis,Condomínios
+Consultoria,Serviços Jurídicos
+Consultoria de informática,Serviços Jurídicos
+Consultoria em engenharia,Serviços Jurídicos
+Consultoria empresarial,Serviços Jurídicos
+Contabilidade,Serviços Jurídicos
+Conversão para gás,Oficinas Mecânicas
+Cooperativa de crédito,Serviços Jurídicos
+Copiadora,Lojas em Geral
+Correio,Lojas em Geral
+Corretor de seguros,Lojas em Geral
+Corretora,Lojas em Geral
+Corretora de aluguel de imóveis,Condomínios
+Cosméticos,Lojas em Geral
+Costureira,Lojas em Geral
+Cozinha solidária,Restaurantes e Lanchonetes
+Creche para idosos,Hotelaria
+Creperia,Restaurantes e Lanchonetes
+Curso de Culinária,Restaurantes e Lanchonetes
+Day Spa,Salões de Beleza
+Decorador de interiores,Lojas em Geral
+Dedetizadora,Lojas em Geral
+Delicatessen,Restaurantes e Lanchonetes
+Delivery,Restaurantes e Lanchonetes
+Delivery de comida chinesa,Restaurantes e Lanchonetes
+Delivery de Pizza,Restaurantes e Lanchonetes
+Delivery especializado em pratos de frango,Restaurantes e Lanchonetes
+Dentista,Lojas em Geral
+Departamento de trânsito,Lojas em Geral
+Departamento de Transporte,Serviços Jurídicos
+Departamento de veículos automotores,Oficinas Mecânicas
+Departamento hospitalar,Lojas em Geral
+Depósito de registros,Serviços Jurídicos
+Dermatologista,Serviços Jurídicos
+Desentupidora,Lojas em Geral
+Desenvolvedora de imóveis,Condomínios
+Designer de flores,Lojas em Geral
+Designer de interiores,Lojas em Geral
+Designer de joias,Lojas em Geral
+Designer Gráfico,Lojas em Geral
+Despachante,Serviços Jurídicos
+Diner,Restaurantes e Lanchonetes
+Distribuidor de aço,Lojas em Geral
+Distribuidor de bebidas,Lojas em Geral
+Distribuidora de bebidas,Lojas em Geral
+Distribuidora de Produtos Farmacêuticos,Lojas em Geral
+Doceria,Lojas em Geral
+Dormitório estudantil,Hotelaria
+Drogaria,Farmácias
+Edifício de apartamentos mobiliados,Condomínios
+Editora,Serviços Jurídicos
+Editora de jornais,Lojas em Geral
+Eletricista,Lojas em Geral
+Embarque,Lojas em Geral
+Empório gourmet,Mercados e Padarias
+Empreiteira,Serviços Jurídicos
+Empresa,Serviços Jurídicos
+Empresa de advocacia,Serviços Jurídicos
+Empresa de Auditoria,Serviços Jurídicos
+Empresa de automação de casas,Condomínios
+Empresa de Automação Empresarial,Mercados e Padarias
+Empresa de Coleta de Entulho,Lojas em Geral
+Empresa de eletrônicos,Lojas em Geral
+Empresa de embalagens,Lojas em Geral
+Empresa de fabricação de plástico,Lojas em Geral
+Empresa de hospedagem na Web,Serviços Jurídicos
+Empresa de Lubrificante,Oficinas Mecânicas
+Empresa de Montagem Industrial,Lojas em Geral
+Empresa de ônibus,Lojas em Geral
+Empresa de organização de eventos,Restaurantes e Lanchonetes
+Empresa de petróleo e gás natural,Lojas em Geral
+Empresa de planejamento financeiro,Serviços Jurídicos
+Empresa de remessas,Lojas em Geral
+Empresa de segurança,Lojas em Geral
+Empresa de telecomunicação,Lojas em Geral
+Empresa de transporte rodoviário,Lojas em Geral
+Empresa farmacêutica,Farmácias
+Empresa madeireira,Lojas em Geral
+Engenheiro mecânico,Oficinas Mecânicas
+Entrega rápida,Lojas em Geral
+Escola bilíngue,Lojas em Geral
+Escola de barbearia,Salões de Beleza
+Escola de hotelaria,Hotelaria
+Escola de idiomas,Serviços Jurídicos
+Escola de inglês,Lojas em Geral
+Escola pública,Lojas em Geral
+Escola Secundária,Lojas em Geral
+Escola técnica,Salões de Beleza
+Escritório de advocacia,Serviços Jurídicos
+Escritório de contabilidade,Serviços Jurídicos
+Escritório do Governo do Estado,Serviços Jurídicos
+Escrivão judicial,Serviços Jurídicos
+Esfiharia,Restaurantes e Lanchonetes
+Estabelecimento especializado em presunto curado,Restaurantes e Lanchonetes
+Estação de ônibus,Lojas em Geral
+Estacionamento,Oficinas Mecânicas
+Estacionamento de trailers,Condomínios
+Estacionamento do aeroporto,Oficinas Mecânicas
+Estacionamento em terminal,Oficinas Mecânicas
+Estacionamento para motocicletas,Oficinas Mecânicas
+Estádio de futebol,Outros
+Estofamento automotivo,Oficinas Mecânicas
+Estúdio de alta costura,Lojas em Geral
+Estúdio de fotografia,Lojas em Geral
+Estúdio de gravação,Lojas em Geral
+Estúdio de tatuagem,Lojas em Geral
+Estúdio de tatuagem e colocação de piercing,Lojas em Geral
+Fábrica de Calçados,Lojas em Geral
+Fábrica de carros,Venda de Veículos
+Fabricação de alimentos,Lojas em Geral
+Fabricante de aço,Serviços Jurídicos
+Fabricante de alimentos,Restaurantes e Lanchonetes
+Fabricante de alimentos congelados,Restaurantes e Lanchonetes
+Fabricante de autopeças,Venda de Veículos
+Fabricante de carros,Venda de Veículos
+Fabricante de móveis,Lojas em Geral
+Fabricante de produtos cosméticos,Lojas em Geral
+Fabricante de produtos de couro,Lojas em Geral
+Fabricante de trailer,Lojas em Geral
+Faixas e placas,Lojas em Geral
+Farmácia,Farmácias
+Farmácia de homeopatia,Farmácias
+Farmácia de medicamentos orgânicos,Farmácias
+Farmácia veterinária,Farmácias
+Fast food no estilo de Hong Kong,Restaurantes e Lanchonetes
+Fazenda,Serviços Jurídicos
+Feira de artesanato,Restaurantes e Lanchonetes
+Feira de automóveis,Venda de Veículos
+Feira Livre,Mercados e Padarias
+Fisioterapeuta,Serviços Jurídicos
+Floricultura atacadista,Lojas em Geral
+Fornecedor,Oficinas Mecânicas
+Fornecedor de água engarrafada,Lojas em Geral
+Fornecedor de alimentos e bebidas para catering,Lojas em Geral
+Fornecedor de almoços prontos,Restaurantes e Lanchonetes
+Fornecedor de alumínio,Serviços Jurídicos
+Fornecedor de ar-condicionado,Lojas em Geral
+Fornecedor de areia e brita,Lojas em Geral
+Fornecedor de Bomba,Lojas em Geral
+Fornecedor de Brindes,Lojas em Geral
+Fornecedor de carroceria de caminhão,Oficinas Mecânicas
+Fornecedor de chapas metálicas,Lojas em Geral
+Fornecedor de equipamento para abrandamento da água,Lojas em Geral
+Fornecedor de equipamentos agrícolas,Lojas em Geral
+Fornecedor de equipamentos audiovisuais,Lojas em Geral
+Fornecedor de equipamentos industriais,Lojas em Geral
+Fornecedor de equipamentos médicos,Lojas em Geral
+Fornecedor de equipamentos para construção,Lojas em Geral
+Fornecedor de equipamentos para deficientes,Lojas em Geral
+Fornecedor de equipamentos para lojas,Lojas em Geral
+Fornecedor de equipamentos para o setor petrolífero,Lojas em Geral
+Fornecedor de estruturas de madeira,Lojas em Geral
+Fornecedor de filtro de água,Lojas em Geral
+Fornecedor de gás butano,Lojas em Geral
+Fornecedor de granito,Lojas em Geral
+Fornecedor de materiais de construção,Lojas em Geral
+Fornecedor de molas,Lojas em Geral
+Fornecedor de molduras,Lojas em Geral
+Fornecedor de peças de caminhão,Oficinas Mecânicas
+Fornecedor de peças para carroceria,Oficinas Mecânicas
+Fornecedor de peças para eletrodomésticos,Lojas em Geral
+Fornecedor de piscinas,Lojas em Geral
+Fornecedor de produtos alimentícios,Lojas em Geral
+Fornecedor de produtos de beleza,Lojas em Geral
+Fornecedor de produtos de borracha,Oficinas Mecânicas
+Fornecedor de produtos de limpeza,Lojas em Geral
+Fornecedor de Produtos Descartáveis,Lojas em Geral
+Fornecedor de revestimento,Lojas em Geral
+Fornecedor de sacos de plástico,Lojas em Geral
+Fornecedor de sistema de segurança,Lojas em Geral
+Fornecedor de sistemas de ar condicionado,Lojas em Geral
+Fornecedor de toldos,Lojas em Geral
+Fornecedor de toner,Lojas em Geral
+Fórum,Serviços Jurídicos
+Fotógrafo,Lojas em Geral
+Fretamento de ônibus,Lojas em Geral
+Fundição,Oficinas Mecânicas
+Funilaria,Oficinas Mecânicas
+Gabinete da Defensoria Pública,Serviços Jurídicos
+Galeria de Arte,Lojas em Geral
+Garagem,Lojas em Geral
+Garagem de automóveis,Lojas em Geral
+Garagem de estacionamento,Oficinas Mecânicas
+Gastropub,Restaurantes e Lanchonetes
+Ginásio poliesportivo,Outros
+Gráfica,Lojas em Geral
+Hamburgueria,Restaurantes e Lanchonetes
+Hipermercado,Mercados e Padarias
+Holding,Hotelaria
+Hospedagem,Hotelaria
+Hospedagem domiciliar,Hotelaria
+Hospedaria,Hotelaria
+Hospital Geral,Hotelaria
+Hospital particular,Hotelaria
+Hospital Veterinário,Lojas em Geral
+Hotel de beira de estrada,Hotelaria
+Hotel para animais de estimação,Hotelaria
+Hotel para gatos,Hotelaria
+Hotel Resort,Hotelaria
+Hotel-cápsula,Hotelaria
+Igreja Batista,Lojas em Geral
+Igreja católica,Lojas em Geral
+Igreja cristã,Serviços Jurídicos
+Igreja evangélica,Lojas em Geral
+Igreja Luterana,Lojas em Geral
+Igreja Metodista,Lojas em Geral
+Igreja Presbiteriana,Outros
+Imobiliária de aluguéis por temporada,Condomínios
+Imobiliária de aluguel de condomínios,Condomínios
+Imobiliária de aluguel de residências,Condomínios
+Impressão digital,Lojas em Geral
+Impressões,Lojas em Geral
+Impressões fotográficas,Lojas em Geral
+Indústrias,Lojas em Geral
+Instituição financeira,Serviços Jurídicos
+Instituição religiosa,Lojas em Geral
+Instituto de Geografia e Estatística,Lojas em Geral
+Instrutor de yoga,Lojas em Geral
+Insuflador de vidros,Oficinas Mecânicas
+Jardim,Lojas em Geral
+Jardim botânico,Outros
+Jardim comunitário,Serviços Jurídicos
+Joalheiro,Lojas em Geral
+Joalheiro atacadista,Lojas em Geral
+Joalheria,Lojas em Geral
+Joalheria especializada em itens personalizados,Lojas em Geral
+Justiça do distrito,Serviços Jurídicos
+Laboratório,Lojas em Geral
+Laboratório médico,Lojas em Geral
+Lago de pesca,Serviços Jurídicos
+Lan house,Lojas em Geral
+Lan House e Cyber café,Lojas em Geral
+Lanchonete,Restaurantes e Lanchonetes
+Laticínios,Lojas em Geral
+Lava-rápido,Oficinas Mecânicas
+Lavanderia a seco,Lojas em Geral
+Leilão de automóveis,Venda de Veículos
+Leilão judicial,Lojas em Geral
+Life coach,Lojas em Geral
+Livraria,Lojas em Geral
+Livraria cristã,Lojas em Geral
+Livraria infantil,Lojas em Geral
+Livraria religiosa,Lojas em Geral
+Locadora de vídeos,Lojas em Geral
+Local de compartilhamento de carros,Venda de Veículos
+Local para eventos,Salões de Beleza
+Lodge,Hotelaria
+"Loja ""faça você mesmo""",Lojas em Geral
+Loja de açaí,Restaurantes e Lanchonetes
+Loja de acessórios automotivos,Oficinas Mecânicas
+Loja de acessórios de informática,Lojas em Geral
+Loja de acessórios de moda,Lojas em Geral
+Loja de acessórios de montaria,Lojas em Geral
+Loja de acessórios para Airsoft,Lojas em Geral
+Loja de acessórios para banheiros,Lojas em Geral
+Loja de acessórios para caminhões,Lojas em Geral
+Loja de acessórios para dispositivos móveis,Lojas em Geral
+Loja de alarmes antifurto,Lojas em Geral
+Loja de alarmes automotivos,Oficinas Mecânicas
+Loja de alimentos congelados,Lojas em Geral
+Loja de alimentos orgânicos,Lojas em Geral
+Loja de aluguel de filmes,Lojas em Geral
+Loja de aluguel de videogames,Lojas em Geral
+Loja de aparelhos auditivos,Lojas em Geral
+Loja de aparelhos de som,Lojas em Geral
+Loja de armas,Lojas em Geral
+Loja de artigos colecionáveis,Lojas em Geral
+Loja de artigos de aromaterapia,Lojas em Geral
+Loja de artigos de couro,Lojas em Geral
+Loja de artigos domésticos,Lojas em Geral
+Loja de artigos em cerâmica,Lojas em Geral
+Loja de artigos esportivos,Lojas em Geral
+Loja de artigos havaianos,Lojas em Geral
+Loja de Artigos Hospitalares,Lojas em Geral
+Loja de artigos militares,Lojas em Geral
+Loja de artigos orientais,Lojas em Geral
+Loja de artigos para acampamento,Lojas em Geral
+Loja de artigos para bilhar,Lojas em Geral
+Loja de artigos para bordado,Lojas em Geral
+Loja de artigos para caça,Lojas em Geral
+"Loja de artigos para cama, mesa e banho",Lojas em Geral
+Loja de artigos para cerca,Lojas em Geral
+Loja de artigos para curling,Lojas em Geral
+Loja de artigos para dança,Lojas em Geral
+Loja de artigos para esportes ao ar livre,Lojas em Geral
+Loja de artigos para festas,Lojas em Geral
+Loja de artigos para fotografia,Lojas em Geral
+Loja de artigos para paisagismo,Lojas em Geral
+Loja de artigos para pesca,Lojas em Geral
+Loja de artigos para reforma,Lojas em Geral
+Loja de artigos religiosos,Lojas em Geral
+Loja de artigos usados,Lojas em Geral
+Loja de autopeças,Oficinas Mecânicas
+Loja de aviamentos,Lojas em Geral
+Loja de azulejos,Lojas em Geral
+Loja de balões,Lojas em Geral
+Loja de banheiras de hidromassagem,Lojas em Geral
+Loja de baterias de carro,Oficinas Mecânicas
+Loja de bebidas,Lojas em Geral
+Loja de bebidas alcoólicas,Lojas em Geral
+Loja de bebidas não alcoólicas,Restaurantes e Lanchonetes
+Loja de bicicleta,Lojas em Geral
+Loja de biscoitos,Lojas em Geral
+Loja de body piercing,Lojas em Geral
+Loja de bolos,Lojas em Geral
+Loja de bonecas,Lojas em Geral
+Loja de bordados,Lojas em Geral
+Loja de botas,Lojas em Geral
+Loja de box para banheiro,Lojas em Geral
+Loja de Brinquedos,Lojas em Geral
+Loja de cadeiras de rodas,Lojas em Geral
+Loja de calçado,Lojas em Geral
+Loja de camas,Lojas em Geral
+Loja de câmeras,Lojas em Geral
+Loja de camisetas,Lojas em Geral
+Loja de camisetas personalizadas,Lojas em Geral
+Loja de cards colecionáveis,Lojas em Geral
+Loja de carimbos,Lojas em Geral
+Loja de casacos de couro,Lojas em Geral
+Loja de castanhas,Lojas em Geral
+Loja de celulares,Lojas em Geral
+Loja de cervejas,Lojas em Geral
+Loja de cestas de presente,Lojas em Geral
+Loja de chapéus,Lojas em Geral
+Loja de chás,Lojas em Geral
+Loja de chocolates,Lojas em Geral
+Loja de churrasqueiras,Lojas em Geral
+Loja de cofres e caixas-fortes,Lojas em Geral
+Loja de colchões,Lojas em Geral
+Loja de comidas naturais,Mercados e Padarias
+Loja de comunicação visual em vinil,Lojas em Geral
+Loja de consignação,Lojas em Geral
+Loja de Conveniência,Lojas em Geral
+Loja de Cortina,Lojas em Geral
+Loja de cortinas e persianas,Lojas em Geral
+Loja de costura,Lojas em Geral
+Loja de departamento,Lojas em Geral
+Loja de descontos,Lojas em Geral
+Loja de discos,Lojas em Geral
+Loja de donuts,Lojas em Geral
+Loja de drones,Lojas em Geral
+Loja de eletrodomésticos,Lojas em Geral
+Loja de eletrodomésticos usados,Lojas em Geral
+Loja de eletrônicos,Lojas em Geral
+Loja de embalagens para mudanças,Lojas em Geral
+Loja de embalagens para presente,Lojas em Geral
+Loja de equipamentos cirúrgicos,Lojas em Geral
+Loja de equipamentos de ginástica,Lojas em Geral
+Loja de equipamentos de hóquei,Lojas em Geral
+Loja de equipamentos e roupas para atividades ao ar livre,Lojas em Geral
+Loja de equipamentos para soldagem,Lojas em Geral
+Loja de ervas,Lojas em Geral
+Loja de especiarias,Lojas em Geral
+Loja de facas,Lojas em Geral
+Loja de fantasias,Lojas em Geral
+Loja de fechaduras,Lojas em Geral
+Loja de ferragens,Lojas em Geral
+Loja de ferramentas,Lojas em Geral
+Loja de flores secas,Lojas em Geral
+Loja de fogões à lenha,Lojas em Geral
+Loja de fogos de artifício,Lojas em Geral
+Loja de freios,Oficinas Mecânicas
+Loja de frios,Lojas em Geral
+Loja de frutas secas,Lojas em Geral
+Loja de frutos do mar,Lojas em Geral
+Loja de futebol,Lojas em Geral
+Loja de hobbies,Lojas em Geral
+Loja de Iluminação,Lojas em Geral
+Loja de Informática,Lojas em Geral
+Loja de Instrumentos Musicais,Lojas em Geral
+Loja de iscas,Lojas em Geral
+Loja de jogos,Lojas em Geral
+Loja de letreiros de neon,Lojas em Geral
+Loja de lingerie,Lojas em Geral
+Loja de livros raros,Lojas em Geral
+Loja de madeiras,Lojas em Geral
+Loja de malas,Lojas em Geral
+Loja de malas e bolsas,Lojas em Geral
+Loja de manequins,Lojas em Geral
+Loja de mapas,Lojas em Geral
+Loja de máquinas de costura,Lojas em Geral
+Loja de máquinas de lavar e secadoras,Lojas em Geral
+Loja de marcenaria,Lojas em Geral
+Loja de massas,Lojas em Geral
+Loja de materiais artísticos,Lojas em Geral
+Loja de materiais elétricos,Lojas em Geral
+Loja de materiais escolares,Lojas em Geral
+Loja de materiais para aeronaves,Lojas em Geral
+Loja de materiais para artesanato,Lojas em Geral
+Loja de materiais para empacotamento,Lojas em Geral
+Loja de materiais para igrejas,Lojas em Geral
+Loja de materiais para massagem,Lojas em Geral
+Loja de materiais para paredes de gesso,Lojas em Geral
+Loja de materiais para restaurante,Lojas em Geral
+Loja de materiais para telhados,Lojas em Geral
+Loja de Material Hidráulico,Lojas em Geral
+Loja de miniaturas,Lojas em Geral
+Loja de Mobília para Quartos,Lojas em Geral
+Loja de moda feminina,Lojas em Geral
+Loja de moda infantil,Lojas em Geral
+Loja de moda masculina,Lojas em Geral
+Loja de molduras,Lojas em Geral
+Loja de motocicletas,Lojas em Geral
+Loja de motores elétricos,Lojas em Geral
+Loja de móveis,Lojas em Geral
+Loja de móveis antigos,Lojas em Geral
+Loja de móveis de jardim,Lojas em Geral
+Loja de móveis infantis,Lojas em Geral
+Loja de móveis para cozinha,Lojas em Geral
+Loja de móveis para escritório,Lojas em Geral
+Loja de móveis rústicos,Lojas em Geral
+Loja de móveis usados,Lojas em Geral
+Loja de móveis usados para escritório,Lojas em Geral
+Loja de noivas,Lojas em Geral
+Loja de óculos de sol,Lojas em Geral
+Loja de pani puri,Restaurantes e Lanchonetes
+Loja de papel de parede,Lojas em Geral
+Loja de Parafuso,Lojas em Geral
+Loja de peças automotivas usadas,Oficinas Mecânicas
+Loja de peças para carros de corrida,Oficinas Mecânicas
+Loja de peças para motocicletas,Oficinas Mecânicas
+Loja de pedras,Lojas em Geral
+Loja de peixes tropicais,Lojas em Geral
+Loja de persianas,Lojas em Geral
+Loja de perucas,Lojas em Geral
+Loja de pipas,Lojas em Geral
+Loja de pipoca,Lojas em Geral
+Loja de pisos,Lojas em Geral
+Loja de placas,Lojas em Geral
+Loja de pneus usados,Oficinas Mecânicas
+Loja de porcelanas,Lojas em Geral
+Loja de prateleiras,Lojas em Geral
+Loja de preço justo,Lojas em Geral
+Loja de Presentes,Lojas em Geral
+Loja de produtos acrílicos,Lojas em Geral
+Loja de produtos de higiene,Lojas em Geral
+Loja de produtos de nutrição esportiva,Lojas em Geral
+Loja de produtos de papelaria,Lojas em Geral
+Loja de produtos elétricos,Lojas em Geral
+Loja de produtos esotéricos,Lojas em Geral
+Loja de produtos naturais,Mercados e Padarias
+Loja de produtos odontológicos,Lojas em Geral
+Loja de produtos orgânicos,Lojas em Geral
+Loja de produtos para impressoras,Lojas em Geral
+Loja de produtos para panificação,Mercados e Padarias
+Loja de produtos para piscinas,Lojas em Geral
+Loja de queijos,Lojas em Geral
+"Loja de R$ 1,99",Lojas em Geral
+Loja de ração,Lojas em Geral
+Loja de radiadores,Oficinas Mecânicas
+Loja de refrigeradores,Lojas em Geral
+Loja de retalhos,Lojas em Geral
+Loja de revistas em quadrinhos,Lojas em Geral
+Loja de rodas,Oficinas Mecânicas
+Loja de Roupa,Lojas em Geral
+Loja de roupas com tamanhos especiais,Lojas em Geral
+Loja de roupas de banho,Lojas em Geral
+Loja de roupas de batik,Lojas em Geral
+Loja de roupas de cama,Lojas em Geral
+Loja de roupas de designer,Lojas em Geral
+Loja de roupas de praia,Lojas em Geral
+Loja de roupas de trabalho,Lojas em Geral
+Loja de roupas esportivas,Lojas em Geral
+Loja de roupas para atividades externas,Lojas em Geral
+Loja de roupas para bebês,Lojas em Geral
+Loja de roupas para jovens,Lojas em Geral
+Loja de roupas para ocasiões formais,Lojas em Geral
+Loja de roupas vintage,Lojas em Geral
+Loja de sapatos ortopédicos,Lojas em Geral
+Loja de silenciadores para veículos,Oficinas Mecânicas
+Loja de skate,Lojas em Geral
+Loja de sofás,Lojas em Geral
+Loja de softwares para computador,Lojas em Geral
+Loja de som para carros,Oficinas Mecânicas
+Loja de souvenires,Lojas em Geral
+Loja de sucos,Restaurantes e Lanchonetes
+Loja de suprimentos para animais de estimação,Lojas em Geral
+Loja de surfe,Lojas em Geral
+Loja de suspensões de automóveis,Oficinas Mecânicas
+Loja de tapetes,Lojas em Geral
+Loja de tecidos,Lojas em Geral
+Loja de telas,Lojas em Geral
+Loja de tetos solares automotivos,Lojas em Geral
+Loja de tintas,Lojas em Geral
+Loja de tortas,Lojas em Geral
+Loja de troféus,Lojas em Geral
+Loja de uniformes,Lojas em Geral
+Loja de utensílios asiáticos,Lojas em Geral
+Loja de utensílios de cozinha,Lojas em Geral
+Loja de utensílios para carpintaria,Lojas em Geral
+Loja de variedades,Lojas em Geral
+Loja de veículos motorizados para competições,Venda de Veículos
+Loja de velas,Lojas em Geral
+Loja de vestidos,Lojas em Geral
+Loja de vestidos de noiva,Lojas em Geral
+Loja de vestimentas tradicionais,Lojas em Geral
+Loja de Videogame,Lojas em Geral
+Loja de vidros automotivos,Oficinas Mecânicas
+Loja de violinos,Lojas em Geral
+Loja de vitaminas e suplementos,Farmácias
+Loja especializada em aeromodelismo,Lojas em Geral
+Loja especializada em aquários,Lojas em Geral
+Loja especializada em artigos para caça e pesca,Lojas em Geral
+Loja especializada em baterias,Oficinas Mecânicas
+Loja especializada em bolsas e malas,Lojas em Geral
+Loja especializada em lembranças de casamento,Lojas em Geral
+Loja especializada em papel,Lojas em Geral
+Loja especializada em roupas íntimas,Lojas em Geral
+Loja especializada em suprimentos para pintura,Lojas em Geral
+Loja especializada em tipos de gás e acessórios relacionados,Lojas em Geral
+Loja especializada em vidros,Lojas em Geral
+Loja infantil,Lojas em Geral
+Loja outlet,Lojas em Geral
+Loja para Bebê,Lojas em Geral
+Loja para gestantes,Lojas em Geral
+Marceneiro,Lojas em Geral
+Marmoraria,Lojas em Geral
+Martelinho de ouro,Oficinas Mecânicas
+Massoterapeuta,Salões de Beleza
+Mecânica para carros,Oficinas Mecânicas
+Mecânico,Oficinas Mecânicas
+Médico,Serviços Jurídicos
+Mercado,Mercados e Padarias
+Mercado chinês,Mercados e Padarias
+Mercado de frutas e vegetais,Mercados e Padarias
+Mercado de produtos agrícolas,Lojas em Geral
+Mercado de roupas,Lojas em Geral
+Mercado industrial,Lojas em Geral
+Mercado noturno,Mercados e Padarias
+Mercearia,Mercados e Padarias
+Mercearia italiana,Mercados e Padarias
+Mercearia japonesa,Lojas em Geral
+Metalúrgica,Oficinas Mecânicas
+Microcervejaria,Restaurantes e Lanchonetes
+Mídia,Lojas em Geral
+Mirante,Outros
+Motel,Hotelaria
+Móveis de vime,Lojas em Geral
+Moveleiro,Lojas em Geral
+Mudanças,Lojas em Geral
+Museu,Lojas em Geral
+Negociante de ouro,Lojas em Geral
+Negócio de produção de comida,Lojas em Geral
+Nutricionista,Serviços Jurídicos
+Oficina de caminhões,Oficinas Mecânicas
+Oficina de carroceria,Oficinas Mecânicas
+Oficina de conserto de eletrônicos,Lojas em Geral
+Oficina de conserto de motor elétrico,Oficinas Mecânicas
+Oficina de conserto de móveis,Oficinas Mecânicas
+Oficina de conserto de scooters,Oficinas Mecânicas
+Oficina de conserto de trailers,Oficinas Mecânicas
+Oficina de máquinas,Oficinas Mecânicas
+Oficina de metais,Oficinas Mecânicas
+Oficina de reparos de celulares,Lojas em Geral
+Oficina mecânica de motos,Oficinas Mecânicas
+Oficina para máquinas,Oficinas Mecânicas
+Operadora de internet,Lojas em Geral
+Organização não governamental,Lojas em Geral
+Orquidário,Lojas em Geral
+Ótica,Lojas em Geral
+Ourives,Lojas em Geral
+Outlet,Lojas em Geral
+Padaria,Mercados e Padarias
+Padaria atacadista,Mercados e Padarias
+Panificadora de pães no vapor,Mercados e Padarias
+Papelaria,Lojas em Geral
+Parada de caminhão,Oficinas Mecânicas
+Paróquia,Outros
+Parque ecológico,Restaurantes e Lanchonetes
+Parque esportivo,Outros
+Parque municipal,Lojas em Geral
+Parque tecnológico,Lojas em Geral
+Passeio pela fazenda,Outros
+Pastelaria brasileira,Restaurantes e Lanchonetes
+Patisserie,Restaurantes e Lanchonetes
+Pediatra,Lojas em Geral
+Peixaria,Lojas em Geral
+Perfumaria,Lojas em Geral
+Perito em contabilidade,Serviços Jurídicos
+Pesquisa e desenvolvimento de produtos,Lojas em Geral
+Pet Shop,Lojas em Geral
+Petiscaria,Restaurantes e Lanchonetes
+Pintor,Lojas em Geral
+Pintura,Lojas em Geral
+Pintura automotiva,Oficinas Mecânicas
+Pista de corrida,Outros
+Pizza para levar,Restaurantes e Lanchonetes
+Pizzaria,Restaurantes e Lanchonetes
+Planejador de eventos,Hotelaria
+Playground,Lojas em Geral
+Podólogo,Salões de Beleza
+Policlínica,Lojas em Geral
+Ponte,Outros
+Ponto de ônibus,Lojas em Geral
+Ponto de referência,Outros
+Ponto de táxi,Lojas em Geral
+Posto de abastecimento de veículos elétricos,Oficinas Mecânicas
+Posto de combustível,Lojas em Geral
+Posto de primeiros socorros,Lojas em Geral
+Pousada,Hotelaria
+Praça,Lojas em Geral
+Praça de alimentação,Lojas em Geral
+Praticante de medicina alternativa,Lojas em Geral
+Preservação do patrimônio,Condomínios
+Presídio,Lojas em Geral
+Prestador de serviços de construção civil,Serviços Jurídicos
+Previdência Social,Serviços Jurídicos
+Programa de bem-estar,Restaurantes e Lanchonetes
+Programa de tratamento ao alcoolismo,Outros
+Pronto atendimento,Lojas em Geral
+Psicólogo,Serviços Jurídicos
+Pub irlandês,Restaurantes e Lanchonetes
+Quadra de esportes,Lojas em Geral
+Quadra de tênis,Lojas em Geral
+Quiosque,Restaurantes e Lanchonetes
+Radiologista,Lojas em Geral
+Reformas,Lojas em Geral
+Regulagem automotiva,Oficinas Mecânicas
+Relojoaria,Lojas em Geral
+Repartição pública,Serviços Jurídicos
+Repartição pública federal,Lojas em Geral
+Repartição pública local,Serviços Jurídicos
+Repartição pública municipal,Serviços Jurídicos
+Reserva natural,Outros
+Residência geriátrica,Hotelaria
+Restaurante,Restaurantes e Lanchonetes
+Restaurante alemão,Restaurantes e Lanchonetes
+Restaurante árabe,Restaurantes e Lanchonetes
+Restaurante argentino,Restaurantes e Lanchonetes
+Restaurante armênio,Restaurantes e Lanchonetes
+Restaurante asiático,Restaurantes e Lanchonetes
+Restaurante austríaco,Restaurantes e Lanchonetes
+Restaurante basco,Restaurantes e Lanchonetes
+Restaurante belga,Restaurantes e Lanchonetes
+Restaurante brasileiro,Restaurantes e Lanchonetes
+Restaurante chinês,Restaurantes e Lanchonetes
+Restaurante coreano,Restaurantes e Lanchonetes
+Restaurante de acarajé,Restaurantes e Lanchonetes
+Restaurante de alimentos sem glúten,Restaurantes e Lanchonetes
+Restaurante de brunch,Restaurantes e Lanchonetes
+Restaurante de café da manhã,Restaurantes e Lanchonetes
+Restaurante de carne,Restaurantes e Lanchonetes
+Restaurante de churrasquinho,Restaurantes e Lanchonetes
+Restaurante de comida caseira,Restaurantes e Lanchonetes
+Restaurante de comida natural,Restaurantes e Lanchonetes
+Restaurante de comida para viagem,Restaurantes e Lanchonetes
+Restaurante de culinária japonesa com influência ocidental,Restaurantes e Lanchonetes
+Restaurante de frango,Restaurantes e Lanchonetes
+Restaurante de frutos do mar,Restaurantes e Lanchonetes
+Restaurante de gastronomia crioula,Restaurantes e Lanchonetes
+Restaurante de gastronomia Tex-Mex,Restaurantes e Lanchonetes
+Restaurante de sopas,Restaurantes e Lanchonetes
+Restaurante de sushi,Restaurantes e Lanchonetes
+Restaurante de temaki,Restaurantes e Lanchonetes
+Restaurante de yakisoba,Restaurantes e Lanchonetes
+Restaurante do Oriente Médio,Restaurantes e Lanchonetes
+Restaurante e izakaya,Restaurantes e Lanchonetes
+Restaurante epecializado em panquecas,Restaurantes e Lanchonetes
+Restaurante espanhol,Restaurantes e Lanchonetes
+Restaurante especializado em carnes,Restaurantes e Lanchonetes
+Restaurante especializado em costeletas,Restaurantes e Lanchonetes
+Restaurante especializado em curry japonês,Restaurantes e Lanchonetes
+Restaurante especializado em porções pequenas,Restaurantes e Lanchonetes
+Restaurante especializado em sanduíches cheesesteaks,Restaurantes e Lanchonetes
+Restaurante especializado em sopas,Restaurantes e Lanchonetes
+Restaurante especializado em sushi servido em esteira giratória,Restaurantes e Lanchonetes
+Restaurante especializado em takoyaki,Restaurantes e Lanchonetes
+Restaurante especializado em yakissoba,Restaurantes e Lanchonetes
+Restaurante europeu,Restaurantes e Lanchonetes
+Restaurante europeu moderno,Restaurantes e Lanchonetes
+Restaurante familiar,Restaurantes e Lanchonetes
+Restaurante fast-food,Restaurantes e Lanchonetes
+Restaurante francês,Restaurantes e Lanchonetes
+Restaurante havaiano,Restaurantes e Lanchonetes
+Restaurante indiano,Restaurantes e Lanchonetes
+Restaurante italiano,Restaurantes e Lanchonetes
+Restaurante japonês,Restaurantes e Lanchonetes
+Restaurante japonês autêntico,Restaurantes e Lanchonetes
+Restaurante latino-americano,Restaurantes e Lanchonetes
+Restaurante libanês,Restaurantes e Lanchonetes
+Restaurante mediterrâneo,Restaurantes e Lanchonetes
+Restaurante mexicano,Restaurantes e Lanchonetes
+Restaurante Mineiro,Restaurantes e Lanchonetes
+Restaurante norte-americano,Restaurantes e Lanchonetes
+Restaurante ou café,Restaurantes e Lanchonetes
+Restaurante peruano,Restaurantes e Lanchonetes
+Restaurante por quilo,Restaurantes e Lanchonetes
+Restaurante português,Restaurantes e Lanchonetes
+Restaurante self-service,Restaurantes e Lanchonetes
+Restaurante sírio,Restaurantes e Lanchonetes
+Restaurante suíço,Restaurantes e Lanchonetes
+Restaurante tailandês,Restaurantes e Lanchonetes
+Restaurante uruguaio,Restaurantes e Lanchonetes
+Restaurante vegano,Restaurantes e Lanchonetes
+Restaurante vegetariano,Restaurantes e Lanchonetes
+Restaurante venezuelano,Restaurantes e Lanchonetes
+Revenda de motores a diesel,Lojas em Geral
+Revenda de reboques,Lojas em Geral
+Revendedor de barcos,Lojas em Geral
+Revendedor de empilhadeiras,Lojas em Geral
+Revendedor de quadriciclos,Venda de Veículos
+Revistaria,Lojas em Geral
+Sacolão,Mercados e Padarias
+Saladas prontas,Restaurantes e Lanchonetes
+Salão,Salões de Beleza
+Salão de baile,Lojas em Geral
+Salão de bingo,Salões de Beleza
+Salão de eventos,Lojas em Geral
+Salão de festas,Lojas em Geral
+Sanduicheria,Restaurantes e Lanchonetes
+Santuário,Outros
+Sapateiro,Lojas em Geral
+Saúde e segurança ocupacional,Serviços Jurídicos
+Sebo,Lojas em Geral
+Secretaria Municipal da Saúde,Lojas em Geral
+Seguradora de automóvel,Venda de Veículos
+Selaria,Lojas em Geral
+Serigrafia,Lojas em Geral
+Serviço de ajuste de roupas,Lojas em Geral
+Serviço de alinhamento e balanceamento,Oficinas Mecânicas
+Serviço de aluguel de andaimes,Lojas em Geral
+Serviço de aluguel de bicicletas,Lojas em Geral
+Serviço de aluguel de fantasias,Lojas em Geral
+Serviço de antenas,Lojas em Geral
+Serviço de ar condicionado automotivo,Oficinas Mecânicas
+Serviço de assistência a pequenas causas,Oficinas Mecânicas
+Serviço de bordados,Lojas em Geral
+Serviço de catering,Restaurantes e Lanchonetes
+Serviço de coleta de lixo,Serviços Jurídicos
+Serviço de colocação de piercing,Lojas em Geral
+Serviço de comércio eletrônico,Lojas em Geral
+Serviço de conserto,Lojas em Geral
+Serviço de conserto de aparelhos de ar-condicionado,Lojas em Geral
+Serviço de conserto de aparelhos de som,Oficinas Mecânicas
+Serviço de conserto de balanças,Lojas em Geral
+Serviço de conserto de lavadoras e secadoras,Lojas em Geral
+Serviço de conserto de máquinas de costura,Lojas em Geral
+Serviço de conserto de motor a diesel,Oficinas Mecânicas
+Serviço de conserto de radiadores,Oficinas Mecânicas
+Serviço de conserto de refrigeradores,Lojas em Geral
+Serviço de conserto de relógios,Lojas em Geral
+Serviço de conserto de vidros,Lojas em Geral
+Serviço de conserto para equipamentos audiovisuais,Serviços Jurídicos
+Serviço de cópia de chaves,Lojas em Geral
+Serviço de declaração de impostos,Serviços Jurídicos
+Serviço de depilação a cera,Salões de Beleza
+Serviço de distribuição,Lojas em Geral
+Serviço de elevadores,Lojas em Geral
+Serviço de envelopamento de veículos,Lojas em Geral
+Serviço de escrituração contábil,Serviços Jurídicos
+Serviço de faturamento médico,Serviços Jurídicos
+Serviço de impressão digital,Lojas em Geral
+Serviço de indicação de advogados,Serviços Jurídicos
+Serviço de instalação de piso de madeira,Lojas em Geral
+Serviço de instalação de tendas,Lojas em Geral
+Serviço de lavagem a pressão,Lojas em Geral
+Serviço de lavanderia,Lojas em Geral
+Serviço de leasing de carros,Venda de Veículos
+Serviço de limpeza completa de automóveis,Oficinas Mecânicas
+Serviço de limpeza de tapeçaria,Lojas em Geral
+Serviço de limpeza de tapetes,Lojas em Geral
+Serviço de locação de artigos de festa,Lojas em Geral
+Serviço de logística,Lojas em Geral
+Serviço de motorista,Venda de Veículos
+Serviço de notícias,Lojas em Geral
+Serviço de Produção de Vídeos,Lojas em Geral
+Serviço de reboque,Oficinas Mecânicas
+Serviço de reconstrução de motores,Oficinas Mecânicas
+Serviço de recuperação de dados,Serviços Jurídicos
+Serviço de reparo de impressoras,Lojas em Geral
+Serviço de reparos de aparelhos telefônicos,Lojas em Geral
+Serviço de reparos hidráulicos,Lojas em Geral
+Serviço de restauração de automóveis,Oficinas Mecânicas
+Serviço de segurança,Serviços Jurídicos
+Serviço de telegrama cantado,Lojas em Geral
+Serviço de transporte e armazenamento de móveis,Lojas em Geral
+Serviço de tratamento de água e esgoto,Lojas em Geral
+Serviço de troca de óleo,Oficinas Mecânicas
+Serviço de zeladoria,Lojas em Geral
+Serviços,Lojas em Geral
+Serviços administrativos,Serviços Jurídicos
+Serviços de aconselhamento de crédito,Serviços Jurídicos
+Serviços de cuidados para idosos,Serviços Jurídicos
+Serviços de informação,Serviços Jurídicos
+Serviços de investimentos,Serviços Jurídicos
+Serviços de usinagem automotiva,Oficinas Mecânicas
+Serviços imobiliários,Serviços Jurídicos
+Serviços para festas infantis,Lojas em Geral
+Sex Shop,Lojas em Geral
+Shopping center,Lojas em Geral
+Showroom,Lojas em Geral
+Showroom da Tesla,Venda de Veículos
+Sindicato,Serviços Jurídicos
+Smartshop,Lojas em Geral
+Sociedade de serviços habitacionais,Condomínios
+Sorveteria,Restaurantes e Lanchonetes
+Sorveteria especializada em sundaes,Restaurantes e Lanchonetes
+Spa facial,Salões de Beleza
+Studio de cílios,Salões de Beleza
+Supermercado,Mercados e Padarias
+Supermercado de descontos,Mercados e Padarias
+Supermercado online,Mercados e Padarias
+Suporte e serviços para computadores,Lojas em Geral
+Sushi para viagem,Restaurantes e Lanchonetes
+Tabacaria,Lojas em Geral
+Tabelião,Serviços Jurídicos
+Tapeçaria,Lojas em Geral
+Tatuador,Lojas em Geral
+Táxi,Lojas em Geral
+Teatro,Restaurantes e Lanchonetes
+Telefone público,Lojas em Geral
+Templo,Serviços Jurídicos
+Terapeuta de drenagem linfática,Salões de Beleza
+Terapeuta reiki,Salões de Beleza
+Torrefação de café,Restaurantes e Lanchonetes
+Tradutor e intérprete,Serviços Jurídicos
+Treinador de cachorros,Lojas em Geral
+Tribunal,Serviços Jurídicos
+Tribunal regional,Serviços Jurídicos
+Trilha de Caminhada,Lojas em Geral
+Universidade,Serviços Jurídicos
+Usina Hidrelétrica,Serviços Jurídicos
+Verdureiro,Mercados e Padarias
+Veterinário,Lojas em Geral
+Viagens,Hotelaria
+Village Hall,Lojas em Geral
+Viveiro de plantas,Lojas em Geral
+Webdesigner,Lojas em Geral
+Wellness hotel,Hotelaria
+Casa de leilões,Lojas em Geral
+Empresa de Rastreamento por Satélite,Lojas em Geral
+Alojamento independente,Condomínios
+Flat,Condomínios
+Creche,Lojas em Geral
