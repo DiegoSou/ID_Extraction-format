@@ -10,8 +10,6 @@ flask_adapter = Blueprint("ext", __name__)
 @flask_adapter.route('/format_outscrapper_result', methods=['GET', 'POST'])
 def format_outscrapper_result():
     if request.method == 'POST':
-        print('Starting - format outscrapper result process')
-        
         request_params = request.form.to_dict()
         
         source_file_dir = request.files['origin']
@@ -20,8 +18,6 @@ def format_outscrapper_result():
         
         # service call
         format_outscraper_result_service(source_file_dir, result_file_dir, request_detail)
-        
-        print('Finishing - format outscrapper result process')
     return {}
   
 # Ex:    
@@ -32,8 +28,6 @@ def format_outscrapper_result():
 @flask_adapter.route('/phone_operator_name_split', methods=['GET', 'POST'])
 def phone_operator_name_split():
     if request.method == 'POST':
-        print('Starting - phone operator name split process')
-        
         request_params = request.form.to_dict()
         
         source_file_dir = request.files['origin']
@@ -42,6 +36,4 @@ def phone_operator_name_split():
         
         # service call
         phone_operator_name_split_service(source_file_dir, result_file_dir, request_detail)
-        
-        print('Finishing - phone operator name split process')
     return {}

@@ -10,8 +10,9 @@ from src.filters import (
 )
 
 def format_outscraper_result_service(source_file_dir, result_file_dir, detail):
-    format_pipeline = FiltersPipeline(FilterPlaceId, FilterCityState, FilterGlossaryTypes)
+    print('Starting - format outscrapper result process')
     
+    format_pipeline = FiltersPipeline(FilterPlaceId, FilterCityState, FilterGlossaryTypes)
     source_df = read_excel(source_file_dir, dtype=before_telein_cols)
     
     mod_df = format_pipeline(source_df, detail=loads(detail))
@@ -22,11 +23,14 @@ def format_outscraper_result_service(source_file_dir, result_file_dir, detail):
 
     for indx, frame in enumerate(spplited_df_list):
         frame.to_excel(result_file_dir['folders'] + str(1+indx) + '_' + result_file_dir['file'], index=False)
+    
+    print('Finishing - format outscrapper result process')
 
 
 def phone_operator_name_split_service(source_file_dir, result_file_dir, detail):
-    format_pipeline = FiltersPipeline(FilterByColumnsOrCity)
+    print('Starting - phone operator name split process')
     
+    format_pipeline = FiltersPipeline(FilterByColumnsOrCity)
     source_df = read_csv(source_file_dir, dtype=after_telein_cols)
     
     mod_df = format_pipeline(source_df, detail=loads(detail))
@@ -46,3 +50,5 @@ def phone_operator_name_split_service(source_file_dir, result_file_dir, detail):
 
         for indx, frame in enumerate(spplited_df_list):
             frame.to_excel(result_file_dir['folders'] + str(1+indx) + '_' + str(op_key) + '_' + result_file_dir['file'], index=False)
+    
+    print('Finishing - phone operator name split process')
