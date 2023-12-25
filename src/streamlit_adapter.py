@@ -1,25 +1,28 @@
-import time
 import streamlit as st
+import pandas as pd
 from src.services import format_outscraper_result_service, phone_operator_name_split_service
+
+dataframe_results = [] # [[dataframe, 'Result Name', 'Result Directory'], ...]
 
 def st_callback(func):
     def inner(*args, **kwargs):
         with st.spinner('Processing and generating new files'):
             func(*args, **kwargs)        
-        
         col1, col2 = st.columns([11, 1])
-        info = col1.info('Done')
-        col2.button('❌', on_click=info.empty)
-
+        col2.button('❌', on_click=col1.info('Done').empty)
     return inner
 
 @st_callback
 def service_call(service_name, req_origin_file, req_result_dir, req_detail):
+    new_dataframes = []
+    
     if service_name == 'format_outscraper_result':
-        format_outscraper_result_service(req_origin_file, req_result_dir, req_detail)
+        new_dataframes = format_outscraper_result_service(req_origin_file, req_result_dir, req_detail)
         
     if service_name == 'phone_operator_name_split':
-        phone_operator_name_split_service(req_origin_file, req_result_dir, req_detail)
+        new_dataframes = phone_operator_name_split_service(req_origin_file, req_result_dir, req_detail)
+    
+    dataframe_results.extend([pd.DataFrame([['Diego', 14], ['Outro', 16]])])
 
 
 def format_outscraper_result_route():
@@ -57,11 +60,17 @@ def phone_operator_name_split_route():
 
 
 def st_init():
-    st.markdown('## Extração Claro')
+    st.markdown('## Rotas')
 
     with st.expander('Sessão 1: Formatar resultados do Outscrapper'):
         format_outscraper_result_route()
         
     with st.expander('Sessão 2: Dividir resultados pelo nome da operadora'):
         phone_operator_name_split_route()
+     
+    st.markdown('## Resultados')
+       
+    for index, df in enumerate(dataframe_results, 1):
+        with st.expander('Result ' + str(index)):
+            st.dataframe(df)
 
