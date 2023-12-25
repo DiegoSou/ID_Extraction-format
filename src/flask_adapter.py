@@ -17,7 +17,15 @@ def format_outscrapper_result():
         request_detail = request_params['detail']
         
         # service call
-        format_outscraper_result_service(source_file_dir, result_file_dir, request_detail)
+        results = format_outscraper_result_service(source_file_dir, result_file_dir, request_detail)
+        
+        for item in results:
+            df = item[0]
+            df_name = item[1]
+            df_dir = item[2]
+            
+            df.to_excel(df_dir, index=False)
+            
     return {}
   
 # Ex:    
@@ -35,5 +43,13 @@ def phone_operator_name_split():
         request_detail = request_params['detail']
         
         # service call
-        phone_operator_name_split_service(source_file_dir, result_file_dir, request_detail)
+        results = phone_operator_name_split_service(source_file_dir, result_file_dir, request_detail)
+        
+        for item in results:
+            df = item[0]
+            df_name = item[1]
+            df_dir = item[2]
+            
+            df.to_excel(df_dir, index=False)
+
     return {}

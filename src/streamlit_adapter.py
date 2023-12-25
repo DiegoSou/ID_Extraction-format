@@ -14,7 +14,7 @@ def st_callback(func):
 
 @st_callback
 def service_call(service_name, req_origin_file, req_result_dir, req_detail):
-    new_dataframes = []
+    new_dataframes = [] # [[dataframe, 'Result Name', 'Result Directory'], ...]
     
     if service_name == 'format_outscraper_result':
         new_dataframes = format_outscraper_result_service(req_origin_file, req_result_dir, req_detail)
@@ -22,20 +22,20 @@ def service_call(service_name, req_origin_file, req_result_dir, req_detail):
     if service_name == 'phone_operator_name_split':
         new_dataframes = phone_operator_name_split_service(req_origin_file, req_result_dir, req_detail)
     
-    dataframe_results.extend([pd.DataFrame([['Diego', 14], ['Outro', 16]])])
+    dataframe_results.extend(new_dataframes)
 
 
 def format_outscraper_result_route():
     request_origin_file = st.file_uploader('Arquivo com os resultados da extração', type=['xlsx'])
+    request_result_directory = st.text_input(label='Diretório para os resultados', key='ext_route_result_dir', value='modified/resultados_operadora.xlsx')
     
     detail_default_value = '{"concat_with":[]}'
-    
-    request_result_directory = 'modified/resultados.xlsx'
     request_detail = st.text_area('Configurações para a formatação', value=detail_default_value)
     
     if request_origin_file is not None:
         st.button(
             'Enviar',
+            key='ext_route_send_btn',
             type='primary',
             on_click=service_call,
             args=('format_outscraper_result', request_origin_file, request_result_directory, request_detail)
@@ -44,15 +44,15 @@ def format_outscraper_result_route():
 
 def phone_operator_name_split_route():
     request_origin_file = st.file_uploader('Arquivo com as informações de operadora', type=['csv'])
+    request_result_directory = st.text_input(label='Diretório para os resultados', key='op_route_result_dir', value='modified/resultados_operadora.xlsx')
     
     detail_dafault_value = '{"cols":["latitude","longitude","name","place_id","query_location_city","query_location_state","query_location_country","type","owner_title","phoneOperator_operatorName"], "city":"SAO PAULO"}'
-    
-    request_result_directory = 'modified/resultados_operadora.xlsx'
     request_detail = st.text_area('Configurações para a formatação', value=detail_dafault_value)
     
     if request_origin_file is not None:
         st.button(
             'Enviar',
+            key='op_route_send_btn',
             type='primary',
             on_click=service_call,
             args=('phone_operator_name_split', request_origin_file, request_result_directory, request_detail)
@@ -67,10 +67,21 @@ def st_init():
         
     with st.expander('Sessão 2: Dividir resultados pelo nome da operadora'):
         phone_operator_name_split_route()
-     
-    st.markdown('## Resultados')
-       
-    for index, df in enumerate(dataframe_results, 1):
-        with st.expander('Result ' + str(index)):
-            st.dataframe(df)
+    
+    def download(frame, path):
+        frame.to_excel(path, index=False)
+    
+    if len(dataframe_results) > 0:
+        st.markdown('## Resultados')
+        
+        for i, item in enumerate(dataframe_results):
+            with st.expander(item[1]):
+                st.dataframe(item[0])
+                
+                st.button(
+                    'Download',
+                    key=str(i) + '_' + item[2],
+                    on_click=download,
+                    args=(item[0], item[2])
+                )
 
