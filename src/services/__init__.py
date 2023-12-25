@@ -1,4 +1,2 @@
-from .services import (
-    format_outscraper_result_service,
-    phone_operator_name_split_service
-)
+from .outscraper_result_formatter import handle as outscraper_result_handler
+from .phone_operator_splitter import handle as phone_operator_handler

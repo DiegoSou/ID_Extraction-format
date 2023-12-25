@@ -2,7 +2,7 @@ from flask import Flask
 from src import flask_adapter
 from src import st_init
 
-# st_init()
+st_init()
 
 # or
 

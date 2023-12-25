@@ -1,5 +1,5 @@
 from flask import Blueprint, request
-from src.services import format_outscraper_result_service, phone_operator_name_split_service
+from src.services import outscraper_result_handler, phone_operator_handler
 
 # Ex:
 # origin -> 'sem_mod/SP - São Paulo/nome_do_arquivo.xlsx'
@@ -17,7 +17,7 @@ def format_outscrapper_result():
         request_detail = request_params['detail']
         
         # service call
-        results = format_outscraper_result_service(source_file_dir, result_file_dir, request_detail)
+        results = outscraper_result_handler(source_file_dir, result_file_dir, request_detail)
         
         for item in results:
             df = item[0]
@@ -43,7 +43,7 @@ def phone_operator_name_split():
         request_detail = request_params['detail']
         
         # service call
-        results = phone_operator_name_split_service(source_file_dir, result_file_dir, request_detail)
+        results = phone_operator_handler(source_file_dir, result_file_dir, request_detail)
         
         for item in results:
             df = item[0]
