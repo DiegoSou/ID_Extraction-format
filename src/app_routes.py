@@ -22,7 +22,6 @@ after_telein_composite = FiltersPipeline(FilterByColumnsOrCity)
 
 extraction_routes = Blueprint("ext", __name__)
 
-
 # BEFORE TELEIN ENRICHMENT
 @extraction_routes.route('/generate_extraction', methods=['GET', 'POST'])
 def extraction_03():
@@ -40,25 +39,13 @@ def extraction_03():
         origin_dir = request.files['origin']
         result_dir = format_path(body_args['result'])
 
-        mod_df = extraction_composite(
-            base_df=read_excel(
-                        origin_dir,
-                        dtype=before_telein_cols
-                    ),
-            detail=json.loads(
-                        body_args['detail']
-                    )
-        )
+        mod_df = extraction_composite(base_df=read_excel(origin_dir, dtype=before_telein_cols), detail=json.loads(body_args['detail']))
 
         # Split dataframes in 80.100 lines per df
         spplited_df_list = split_df_by_lines(mod_df, 80100)
 
         for indx, frame in enumerate(spplited_df_list):
-
-            frame.to_excel(
-                result_dir['folders'] + str(1+indx) + '_' + result_dir['file'],
-                index=False
-            )
+            frame.to_excel(result_dir['folders'] + str(1+indx) + '_' + result_dir['file'], index=False)
 
     print('Exiting process')
     return {}
@@ -81,38 +68,21 @@ def after_telein():
         origin_dir = request.files['origin']
         result_dir = format_path(body_args['result'])
 
-        mod_df = after_telein_composite(
-            base_df=read_csv(
-                        origin_dir,
-                        dtype=after_telein_cols
-                    ),
-            detail=json.loads(
-                        body_args['detail']
-                    )
-        )
+        mod_df = after_telein_composite(base_df=read_csv(origin_dir, dtype=after_telein_cols), detail=json.loads(body_args['detail']))
 
         # Split dataframes by phone operator name
-        spplited_df_list = split_df_by_operator(
-                                mod_df,
-                                {
-                                    'oi' : ['OI'],
-                                    'tim' : ['TIM'],
-                                    'vivo' : ['VIVO', 'Telefônica Brasil'],
-                                    'claro' : ['Claro', 'Embratel']
-                                }
-                            )
+        spplited_df_list = split_df_by_operator(mod_df, {
+            'oi' : ['OI'],
+            'tim' : ['TIM'],
+            'vivo' : ['VIVO', 'Telefônica Brasil'],
+            'claro' : ['Claro', 'Embratel']
+        })
 
         for op_key, op_item in spplited_df_list.items():
-
-            # Split items in 2.000 lines per df
             spplited_df_list = split_df_by_lines(op_item, 2000)
 
             for indx, frame in enumerate(spplited_df_list):
-
-                frame.to_excel(
-                    result_dir['folders'] + str(1+indx) + '_' + str(op_key) + '_' + result_dir['file'],
-                    index=False
-                )
+                frame.to_excel(result_dir['folders'] + str(1+indx) + '_' + str(op_key) + '_' + result_dir['file'], index=False)
 
     print('Exiting process')
     return {}
