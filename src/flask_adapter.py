@@ -17,7 +17,7 @@ def format_outscrapper_result():
         
         source_file_dir = request.files['origin']
         result_file_dir = request_params['result']
-        request_detail = json.loads(request_params['detail'])
+        request_detail = request_params['detail']
         
         # service call
         format_outscraper_result_service(source_file_dir, result_file_dir, request_detail)
@@ -39,7 +39,7 @@ def phone_operator_name_split():
         
         source_file_dir = request.files['origin']
         result_file_dir = request_params['result']
-        request_detail = json.loads(request_params['detail'])
+        request_detail = request_params['detail']
         
         # service call
         phone_operator_name_split_service(source_file_dir, result_file_dir, request_detail)
