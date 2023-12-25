@@ -1,1 +1,1 @@
-from .app_routes import extraction_routes
+from .flask_adapter import flask_adapter
