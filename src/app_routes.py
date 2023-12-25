@@ -9,12 +9,21 @@ from src.utils import (
     before_telein_cols,
     after_telein_cols
 )
-from app_composer import extraction_composite, after_telein_composite
+from src.filters import (
+    FiltersPipeline,
+    FilterCityState,
+    FilterGlossaryTypes,
+    FilterPlaceId,
+    FilterByColumnsOrCity
+)
 
+extraction_composite = FiltersPipeline(FilterPlaceId, FilterCityState, FilterGlossaryTypes)
+after_telein_composite = FiltersPipeline(FilterByColumnsOrCity)
 
 extraction_routes = Blueprint("ext", __name__)
-# Members of API route
 
+
+# BEFORE TELEIN ENRICHMENT
 @extraction_routes.route('/generate_extraction', methods=['GET', 'POST'])
 def extraction_03():
 
@@ -55,6 +64,7 @@ def extraction_03():
     return {}
 
 
+# AFTER TELEIN ENRICHMENT
 @extraction_routes.route('/extract_operators', methods=['GET','POST'])
 def after_telein():
 
