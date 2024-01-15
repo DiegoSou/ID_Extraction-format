@@ -122,7 +122,8 @@ states = {
     'Paraná' : 'PR',
     'Minas Gerais' : 'MG',
     'Bahia' : 'BA',
-    'Espírito Santo' : 'ES'
+    'Espírito Santo' : 'ES',
+    'Distrito Federal': 'DF'
 }
 
 cities = [
